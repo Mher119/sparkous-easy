@@ -20,14 +20,14 @@
   position: relative;
   width: 456px;
   height: 555px;
-  margin-right: 70px;
+  margin-right: 80px;
 }
 
 .card3 {
   position: relative;
   width: 456px;
   height: 555px;
-  right: 20px;
+  right: 10px;
   
 }
 
@@ -43,7 +43,7 @@
   line-height: 90%;
   letter-spacing: 0%;
   color: #00295B;
-  bottom: 10px;
+  bottom: 25px;
   left: 5%;
 }
 
@@ -57,7 +57,7 @@
   letter-spacing: 0%;
   color: #00295B;
   font-size: 20px;
-  bottom: 10px;
+  bottom: 25px;
 
 }
 
